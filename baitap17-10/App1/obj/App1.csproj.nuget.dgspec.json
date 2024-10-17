@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj": {}
+    "D:\\công nghe phan mềm\\laptrinhn\\baitap17-10\\App1\\App1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj": {
+    "D:\\công nghe phan mềm\\laptrinhn\\baitap17-10\\App1\\App1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj",
+        "projectUniqueName": "D:\\công nghe phan mềm\\laptrinhn\\baitap17-10\\App1\\App1.csproj",
         "projectName": "App1",
-        "projectPath": "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\App1.csproj",
+        "projectPath": "D:\\công nghe phan mềm\\laptrinhn\\baitap17-10\\App1\\App1.csproj",
         "packagesPath": "C:\\Users\\laonh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laonh\\OneDrive\\Desktop\\Nhat_Cpp\\Laptring.net\\App1\\App1\\obj\\",
+        "outputPath": "D:\\công nghe phan mềm\\laptrinhn\\baitap17-10\\App1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laonh\\AppData\\Roaming\\NuGet\\NuGet.Config",
