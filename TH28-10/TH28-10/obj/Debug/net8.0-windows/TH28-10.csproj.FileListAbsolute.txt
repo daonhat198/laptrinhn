@@ -1,0 +1,16 @@
+C:\Users\laonh\source\repos\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.exe
+C:\Users\laonh\source\repos\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.deps.json
+C:\Users\laonh\source\repos\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.runtimeconfig.json
+C:\Users\laonh\source\repos\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.dll
+C:\Users\laonh\source\repos\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.pdb
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28_10.Form1.resources
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.csproj.GenerateResource.cache
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.AssemblyInfoInputs.cache
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.AssemblyInfo.cs
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.csproj.CoreCompileInputs.cache
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.dll
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\refint\TH28-10.dll
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.pdb
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.genruntimeconfig.cache
+C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\ref\TH28-10.dll
