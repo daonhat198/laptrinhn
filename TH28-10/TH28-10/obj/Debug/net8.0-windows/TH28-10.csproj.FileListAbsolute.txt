@@ -14,3 +14,20 @@ C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\refint\TH28
 C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.pdb
 C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.genruntimeconfig.cache
 C:\Users\laonh\source\repos\TH28-10\TH28-10\obj\Debug\net8.0-windows\ref\TH28-10.dll
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.exe
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.deps.json
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.runtimeconfig.json
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.dll
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\bin\Debug\net8.0-windows\TH28-10.pdb
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28_10.Form1.resources
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.csproj.GenerateResource.cache
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.GeneratedMSBuildEditorConfig.editorconfig
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.AssemblyInfoInputs.cache
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.AssemblyInfo.cs
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.csproj.CoreCompileInputs.cache
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.sourcelink.json
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.dll
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\refint\TH28-10.dll
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.pdb
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\TH28-10.genruntimeconfig.cache
+D:\công nghe phan mềm\laptrinhn\TH28-10\TH28-10\obj\Debug\net8.0-windows\ref\TH28-10.dll

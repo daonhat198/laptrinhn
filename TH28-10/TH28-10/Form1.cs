@@ -11,6 +11,7 @@
         public Form1()
         {
             InitializeComponent();
+            this.AcceptButton = btnSearch;
         }
 
         private void btnSearch_Click(object sender, EventArgs e)

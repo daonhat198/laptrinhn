@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laonh\\source\\repos\\TH28-10\\TH28-10\\TH28-10.csproj": {}
+    "D:\\công nghe phan mềm\\laptrinhn\\TH28-10\\TH28-10\\TH28-10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laonh\\source\\repos\\TH28-10\\TH28-10\\TH28-10.csproj": {
+    "D:\\công nghe phan mềm\\laptrinhn\\TH28-10\\TH28-10\\TH28-10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laonh\\source\\repos\\TH28-10\\TH28-10\\TH28-10.csproj",
+        "projectUniqueName": "D:\\công nghe phan mềm\\laptrinhn\\TH28-10\\TH28-10\\TH28-10.csproj",
         "projectName": "TH28-10",
-        "projectPath": "C:\\Users\\laonh\\source\\repos\\TH28-10\\TH28-10\\TH28-10.csproj",
+        "projectPath": "D:\\công nghe phan mềm\\laptrinhn\\TH28-10\\TH28-10\\TH28-10.csproj",
         "packagesPath": "C:\\Users\\laonh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laonh\\source\\repos\\TH28-10\\TH28-10\\obj\\",
+        "outputPath": "D:\\công nghe phan mềm\\laptrinhn\\TH28-10\\TH28-10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laonh\\AppData\\Roaming\\NuGet\\NuGet.Config",

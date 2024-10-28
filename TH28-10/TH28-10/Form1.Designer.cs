@@ -100,12 +100,12 @@ namespace TH28_10
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+           
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+           
         }
 
         #endregion
